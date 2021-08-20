@@ -1,0 +1,22 @@
+{
+    "infirmiers": [
+        {
+            "id":1,
+            "nom" : "Dudou",
+            "prenom" : "Paupaul",
+            "addresse" : "2 rue du Chêne, 23567 Bouboule"
+        },
+        {
+            "id":2,
+            "nom" : "Dada",
+            "prenom" : "Laulaup",
+            "addresse" : "2 rue du gland, 23567 Louloube"
+        },
+        {
+            "id":3,
+            "nom" : "Toto",
+            "prenom" : "Titi",
+            "addresse" : "2 rue du Tutu, 23567 Mamama"
+        }
+    ]
+}
